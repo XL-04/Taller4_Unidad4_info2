@@ -76,7 +76,7 @@ Permite ingresar:
 
 Muestra:
 
-* *ombre
+* Nombre
 * ID
 * Riesgo
 
