@@ -1,0 +1,13 @@
+LISTADO DE PACIENTES EXPORTADOS
+=====================================
+Fecha de exportación: 2025-12-03 23:16:40.898450
+
+
+Nombre: Cristina
+ID: 129
+Edad: 45
+BPM: 128
+SpO₂: 95
+Temperatura: 38.1
+Riesgo: Alerta
+-------------------------------------
