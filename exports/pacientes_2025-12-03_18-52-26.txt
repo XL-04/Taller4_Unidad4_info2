@@ -1,0 +1,29 @@
+LISTADO DE PACIENTES EXPORTADOS
+=====================================
+Fecha de exportación: 2025-12-03 18:52:26.015225
+
+
+Nombre: Lizeth 
+ID: 123
+Edad: 21
+BPM: 89
+SpO₂: 95
+Temperatura: 37.0
+Riesgo: Normal
+-------------------------------------
+Nombre: juan
+ID: 456
+Edad: 40
+BPM: 60
+SpO₂: 105
+Temperatura: 37.0
+Riesgo: Normal
+-------------------------------------
+Nombre: ana
+ID: 789
+Edad: 24
+BPM: 80
+SpO₂: 120
+Temperatura: 38.5
+Riesgo: Alerta
+-------------------------------------

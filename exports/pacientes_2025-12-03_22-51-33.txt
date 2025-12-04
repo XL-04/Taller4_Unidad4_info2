@@ -1,0 +1,21 @@
+LISTADO DE PACIENTES EXPORTADOS
+=====================================
+Fecha de exportación: 2025-12-03 22:51:33.847523
+
+
+Nombre: Carolina
+ID: 567
+Edad: 35
+BPM: 78
+SpO₂: 100
+Temperatura: 38.0
+Riesgo: Normal
+-------------------------------------
+Nombre: Samuel
+ID: 098
+Edad: 20
+BPM: 116
+SpO₂: 81
+Temperatura: 40.2
+Riesgo: Crítico
+-------------------------------------
